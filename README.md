@@ -4,6 +4,6 @@
 
 현재 작업중인 디렉토리 정보를 출력합니다.
 ## 2.ls
-[2.ls.pdf](https://github.com/cypark728/cypark728.github.io/files/4369145/2.ls.pdf
+![2 ls](https://user-images.githubusercontent.com/48200520/77314711-88009080-6d49-11ea-9f1a-7d9328b9d34c.jpg)
 
 디렉토리 목록 
