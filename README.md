@@ -89,37 +89,46 @@
 
 파일에서 트정한 패턴을 찾는 명령어입니다. 
 ## 20.wc
-![image](https://user-images.githubusercontent.com/48200520/77322324-ea13c280-6d56-11ea-89d7-fcf67aeb9864.png)
+![image](https://user-images.githubusercontent.com/48200520/77322736-863dc980-6d57-11ea-9289-b83c58abd4a1.png)
 
 파일 내의 라인, 단어, 문자의 수를 출렵합니다. 
 ## 21.tee
-![image](https://user-images.githubusercontent.com/48200520/77322342-f13ad080-6d56-11ea-8caa-766d9687f3c2.png)
+![image](https://user-images.githubusercontent.com/48200520/77322324-ea13c280-6d56-11ea-89d7-fcf67aeb9864.png)
 
 출력을 화명과 파일에 동시에 출력하는 명령어입니다. 
 ## 22.echo
+![image](https://user-images.githubusercontent.com/48200520/77322342-f13ad080-6d56-11ea-8caa-766d9687f3c2.png)
 
-ㅇ니수로 지정된 문자열을 그대로 화면에 출력합니다. 
+인수로 지정된 문자열을 그대로 화면에 출력합니다. 
 ## 23.history
+![image](https://user-images.githubusercontent.com/48200520/77322507-2e9f5e00-6d57-11ea-8e98-aa1036b3a64e.png)
 
 이전에 사용한 명령어를 확인합니다. 
 ## 24.id
+![image](https://user-images.githubusercontent.com/48200520/77322522-35c66c00-6d57-11ea-814b-e9fd918e6075.png)
 
 사용자의 계정을 보여줍니다. 
 ## 25.ps
+![image](https://user-images.githubusercontent.com/48200520/77322542-3bbc4d00-6d57-11ea-8fa8-e5980b344a59.png)
 
 현재 실행중인 프로세스 목록을 보여줍니다. 
 ## 26.clear
+![image](https://user-images.githubusercontent.com/48200520/77322564-45de4b80-6d57-11ea-9d94-11beb986f010.png)
 
 터미널의 내용을 모두 삭제합니다. 
 ## 27.head
+![image](https://user-images.githubusercontent.com/48200520/77322601-50004a00-6d57-11ea-8a19-0d4cfda8a03f.png)
 
 파일의 앞부분을 지정된 만큼 보여줍니다. 
 ## 28.tail
+![image](https://user-images.githubusercontent.com/48200520/77322623-568ec180-6d57-11ea-9494-4f8d4e3dee7c.png)
 
 파일의 뒷부분을 지정됨 만큼 보여줍니다. 
 ## 29.info
+![image](https://user-images.githubusercontent.com/48200520/77322642-5d1d3900-6d57-11ea-8995-f82369393592.png)
 
 man 페이지보다 상세화 된 메뉴얼을 보여줍니다. 
 ## 30.whatis
+![image](https://user-images.githubusercontent.com/48200520/77322650-63abb080-6d57-11ea-8dc9-c555ce0a1aae.png)
 
 명령어의 설명을 간략하게 보여줍니다. 
