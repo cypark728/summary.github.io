@@ -76,3 +76,50 @@
 ![image](https://user-images.githubusercontent.com/48200520/77319406-209b0e80-6d52-11ea-93c5-be5b260bebd5.png)
 
 명령 뒤에 파일 이름을 입력하면 그 파일의 내용을 출력합니다. 
+## 17.sort
+![image](https://user-images.githubusercontent.com/48200520/77322270-d49e9880-6d56-11ea-9d1d-51e07853315c.png)
+
+텍스트로 된 파일을 행단위로 정렬합니다.  
+## 18.uniq
+![image](https://user-images.githubusercontent.com/48200520/77322296-dcf6d380-6d56-11ea-897d-c0c8ee1e591f.png)
+
+중복된 행이 연속으로 있으면 하나만 남기고 삭제합니다. 
+## 19.grep
+![image](https://user-images.githubusercontent.com/48200520/77322312-e3854b00-6d56-11ea-830a-b302f4a99116.png)
+
+파일에서 트정한 패턴을 찾는 명령어입니다. 
+## 20.wc
+![image](https://user-images.githubusercontent.com/48200520/77322324-ea13c280-6d56-11ea-89d7-fcf67aeb9864.png)
+
+파일 내의 라인, 단어, 문자의 수를 출렵합니다. 
+## 21.tee
+![image](https://user-images.githubusercontent.com/48200520/77322342-f13ad080-6d56-11ea-8caa-766d9687f3c2.png)
+
+출력을 화명과 파일에 동시에 출력하는 명령어입니다. 
+## 22.echo
+
+ㅇ니수로 지정된 문자열을 그대로 화면에 출력합니다. 
+## 23.history
+
+이전에 사용한 명령어를 확인합니다. 
+## 24.id
+
+사용자의 계정을 보여줍니다. 
+## 25.ps
+
+현재 실행중인 프로세스 목록을 보여줍니다. 
+## 26.clear
+
+터미널의 내용을 모두 삭제합니다. 
+## 27.head
+
+파일의 앞부분을 지정된 만큼 보여줍니다. 
+## 28.tail
+
+파일의 뒷부분을 지정됨 만큼 보여줍니다. 
+## 29.info
+
+man 페이지보다 상세화 된 메뉴얼을 보여줍니다. 
+## 30.whatis
+
+명령어의 설명을 간략하게 보여줍니다. 
