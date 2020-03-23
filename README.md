@@ -8,54 +8,67 @@
 
 디렉토리 목록을 확인합니다.
 ## 3.cd
-
+![image](https://user-images.githubusercontent.com/48200520/77319503-458f8180-6d52-11ea-9446-8f294df339f0.png)
 
 해당 디렉토리로 이동한다. 
 ## 4.mkdir
+![image](https://user-images.githubusercontent.com/48200520/77319519-4cb68f80-6d52-11ea-86f1-25100af9c932.png)
 
 
 디렉토리를 만듭니다. 
 ## 5.rmdir
+![image](https://user-images.githubusercontent.com/48200520/77319534-53450700-6d52-11ea-94f3-b1e54d0974a2.png)
 
 
 빈 디렉토리를 삭제합니다. 디렉토리가 비어있지 않을 경우에는 삭제를 할 수 었습니다. 
 ## 6.cal
+![image](https://user-images.githubusercontent.com/48200520/77319551-5c35d880-6d52-11ea-8f8e-9b7a90352594.png)
 
 
 달력을 표시합니다. 
 ## 7.date
+![image](https://user-images.githubusercontent.com/48200520/77319565-6526aa00-6d52-11ea-9895-dc6fdd13b144.png)
 
 
 현재 날짜와 시간을 표시합니다. 
 ## 8.df
+![image](https://user-images.githubusercontent.com/48200520/77319687-9b642980-6d52-11ea-873d-009354fcf1e1.png)
+
 
 
 리눅스 시스템 전체의 디스크 사용량을 확인할 수 있습니다. 
 ## 9.free
+![image](https://user-images.githubusercontent.com/48200520/77319718-a3bc6480-6d52-11ea-91da-7d0a17359593.png)
 
 
 메모리 사용량과 여유량 그리고 캐싱으로 사용되는 메모리가 얼마나 있는지 파악할 수 있습니다. 
 ## 10.file
+![image](https://user-images.githubusercontent.com/48200520/77319733-aa4adc00-6d52-11ea-9a5c-a5d843bb980e.png)
 
 
 지정된 파일의 종류(타입)을 확인하는 명령어입니다. 
 ## 11.cp
+![image](https://user-images.githubusercontent.com/48200520/77319746-b040bd00-6d52-11ea-8a1c-58a5dd704ed1.png)
 
 
 파일을 복사한다. 
 ## 12.mv
+![image](https://user-images.githubusercontent.com/48200520/77319758-b767cb00-6d52-11ea-8e55-8db9faabf675.png)
 
 
 파일 이동을 할 수 있습니다. 같은 폴더에서 파일, 디렉토리를 이동하는 경우 이름변경 효과가 있습니다.
 ## 13.rm
+![image](https://user-images.githubusercontent.com/48200520/77319767-bd5dac00-6d52-11ea-9c82-e1030e161c77.png)
 
 
 파일이나 디렉토리를 삭제합니다. 
 ## 14.type
+![image](https://user-images.githubusercontent.com/48200520/77319779-c3ec2380-6d52-11ea-9033-64bf820023d3.png)
 
 
 지정된 명령어가 쉘에 내장된 명령어인지, 외부명령어인지, 앨리어스 명령어인지 등을 확인하는 명령어입니다. 
 ## 15.which
+![image](https://user-images.githubusercontent.com/48200520/77319792-c9496e00-6d52-11ea-841e-fa03e4655d12.png)
 
 
 특정명령어의 위치를 찾아주는 명령어입니다. 
