@@ -14,6 +14,14 @@ $ vim hello.txt
 
 이 명령어를 입력하면 hello.txt가 만들어 집니다. 이미 hello.txt파일이 있을경우 hello.txt파일을 열게 됩니다. 
 ![image](https://user-images.githubusercontent.com/48200520/77897882-3ca03200-72b5-11ea-8e13-991ecc7c7f04.png)
+### insert(edit) mode 진입 키
+*i 현재 커서의 앞에서 편집 시작
+*a 현재 커서의 다음부터 편집 시작
+*A 현재 커서 맨 끝으로 커서 이동하고 펹비 시작
+*o 현재 커서 아래에 새로운 줄을 추가하고, 편집 시작
+*O 현재 커서 위에 새로운 줄을 추가하고, 편집 시작
+![image](https://user-images.githubusercontent.com/48200520/77898439-15963000-72b6-11ea-9e4a-d4bd10154480.png)
+위의 명령어를 입력하면 아래에 INSERT가 생기는 것을 알 수 있다. 그라먄 insert(edit) mode에 진입한 것이다. 
 
 
 
