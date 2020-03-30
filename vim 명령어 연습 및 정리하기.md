@@ -11,6 +11,7 @@
 ## Vim 명령어
 ### Vim 파일 만들기
 $ vim hello.txt
+
 이 명령어를 입력하면 hello.txt가 만들어 집니다. 이미 hello.txt파일이 있을경우 hello.txt파일을 열게 됩니다. 
 ![image](https://user-images.githubusercontent.com/48200520/77897882-3ca03200-72b5-11ea-8e13-991ecc7c7f04.png)
 
