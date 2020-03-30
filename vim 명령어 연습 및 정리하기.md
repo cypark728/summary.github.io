@@ -41,6 +41,7 @@ $ vim hello.txt
 *u 마지막 명령 취소 (tmi. u 를 꾹 누르면 계속 마지막 명령을 취소한다.)
 
 *U 해당 줄 전체의 수정사항 취소
+
 ![image](https://user-images.githubusercontent.com/48200520/77900284-ce5d6e80-72b8-11ea-889c-a7409cde61f3.png)
 ![image](https://user-images.githubusercontent.com/48200520/77900290-d0bfc880-72b8-11ea-8049-4cb8e92794b9.png)ㅇ
 
