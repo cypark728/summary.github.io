@@ -25,7 +25,7 @@ $ vim hello.txt
 
 *O 현재 커서 위에 새로운 줄을 추가하고, 편집 시작
 
-![image](https://user-images.githubusercontent.com/48200520/77898439-15963000-72b6-11ea-9e4a-d4bd10154480.png)
+![image](https://user-images.githubusercontent.com/48200520/77898439-15963000-72b6-11ea-9e4a-d4bd10154480.png)![image](https://user-images.githubusercontent.com/48200520/77898439-15963000-72b6-11ea-9e4a-d4bd10154480.png)
 
 위의 명령어를 입력하면 아래에 INSERT가 생기는 것을 알 수 있다. 그러면 insert(edit) mode에 진입한 것이다. 
 
