@@ -1,11 +1,11 @@
 # vim 명령어 연습 및 정리하기
 ## Vim 의 모드
-### 일반 모드(Normal mode) 또는 명령모드 (Command mode)
+### *일반 모드(Normal mode) 또는 명령모드 (Command mode)
 입력하느 모든 키는 명령을 숭행한다. 
-### 명령줄 모드(Comman Line mode)
+### *명령줄 모드(Comman Line mode)
 화면 하단에 :(콜론) 프로프트에 명령문장을 입력하거니/프로포트에 단어를 입련한다. 
-### 편짐/입력 모드(Insert mode)
+### *편짐/입력 모드(Insert mode)
 입력하는 모든 키는 문서의 내용을 작성한다. 
-### 비주얼/선택 모드(Visula mode)
+### *비주얼/선택 모드(Visula mode)
 
 
