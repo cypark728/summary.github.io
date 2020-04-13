@@ -42,12 +42,16 @@ remote repository 의 주소를 등록하는 명령어이다.
 # 파일을 수정한다. 
 # git에 파일을 추가한다
 
+![image](https://user-images.githubusercontent.com/48200520/79127690-4fe6ed80-7ddd-11ea-8df7-44a3ed5838ed.png)
+
+
 git status를 통해서 main.c가 수정된 것을 확인할 수 있다. 
 
 # 수정한 파일 commit하기
 
 
-![image](https://user-images.githubusercontent.com/48200520/79127690-4fe6ed80-7ddd-11ea-8df7-44a3ed5838ed.png)
+![image](https://user-images.githubusercontent.com/48200520/79128155-02b74b80-7dde-11ea-8c9c-5edff12e8952.png)
+
 
 
 
