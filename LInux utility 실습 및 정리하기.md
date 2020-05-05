@@ -54,3 +54,15 @@ LISTEN 상태인 포트만 출력하기
 
 # Domain name
 ## nslookup
+name server 관련한 조회를 할 수 있는 명령어이다. 서버의 네트워크가 제대로 설정되었는지 확인하는 용도로 자주 쓰인다.
+
+![image](https://user-images.githubusercontent.com/48200520/81084804-59bdc580-8f31-11ea-9366-b397d3d462d5.png)
+
+## ping
+외부 호스트 서버가 네트위크상으로 접근이 가능한지 확인해보는 명령어이다. 
+
+![image](https://user-images.githubusercontent.com/48200520/81085385-1dd73000-8f32-11ea-8d96-08c23c16cd6d.png)
+
+
+
+
